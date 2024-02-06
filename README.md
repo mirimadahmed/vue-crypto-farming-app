@@ -1,4 +1,5 @@
-# meta-farms
+# Crypto Farming Vue Application
+This project is a crypto farming application made in vue.js. The main prupose of the application is to connect the wallet and interact with the farming NFT smart contracts.
 
 ## Project setup
 ```
